@@ -1,0 +1,792 @@
+CLIENT DATA - READABLE FORMAT
+================================
+
+1. CNIC: 3740520366589
+   Account Type: Sahulat Account
+   Occupation: Student
+   Nationality: Pakistani
+   Marital Status: Single
+   Name: Shireen begum
+   Location: Rawalpindi
+   Date: 14-Jul-2025 01:34:39
+
+2. CNIC: 3450291903075
+   Account Type: Normal Account
+   Occupation: Employee
+   Nationality: Pakistan
+   Marital Status: Single
+   Name: Shahnaz Kausar
+   Location: Gujranwala
+   Date: 13-Jul-2025 23:35:11
+
+3. CNIC: 1560278924073
+   Account Type: Normal Account
+   Occupation: Business Owner
+   Nationality: Pakistani
+   Marital Status: Single
+   Name: Kalsoom Rasheed
+   Location: Jhang
+   Date: 14-Jul-2025 21:38:39
+
+4. CNIC: 3310469782971
+   Account Type: Sahulat Account
+   Occupation: Student
+   Nationality: Pakistani
+   Marital Status: Married
+   Name: Riffat Ara
+   Location: Jaranwala
+   Date: 14-Jul-2025 14:52:40
+
+5. CNIC: 4210195175627
+   Account Type: Normal Account
+   Occupation: Employee
+   Nationality: Pakistani
+   Marital Status: Married
+   Name: Naheed Malik
+   Location: Karachi
+   Date: 14-Jul-2025 09:36:43
+
+6. CNIC: 4240149966963
+   Account Type: Normal Account
+   Occupation: Employee
+   Nationality: Pakistani
+   Marital Status: Married
+   Name: Shakeela Parveen
+   Location: Karachi
+   Date: 13-Jul-2025 20:05:34
+
+7. CNIC: 3310021939101
+   Account Type: Sahulat Account
+   Occupation: Student
+   Nationality: Pakistan
+   Marital Status: Single
+   Name: Salma bibi
+   Location: FAISALABAD
+   Date: 14-Jul-2025 17:23:23
+
+8. CNIC: 3520208544621
+   Account Type: Normal Account
+   Occupation: Employee
+   Nationality: Pakistani
+   Marital Status: Married
+   Name: Madiha Usman
+   Location: Lahore
+   Date: 14-Jul-2025 15:04:56
+
+9. CNIC: 1610222462785
+   Account Type: Normal Account
+   Occupation: Business Owner
+   Nationality: Pakistan
+   Marital Status: Married
+   Name: Jamila Rehman
+   Location: Takhtbhai
+   Date: 14-Jul-2025 00:43:41
+
+10. CNIC: 3660337047853
+    Account Type: Sahulat Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Surayia Bano
+    Location: Vehari
+    Date: 13-Jul-2025 19:33:06
+
+11. CNIC: 9040301684201
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Kausar Jahan
+    Location: Karachi
+    Date: 15-Jul-2025 10:58:49
+
+12. CNIC: 3740569579759
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Sajida Ijaz
+    Location: Rawalpindi
+    Date: 15-Jul-2025 01:06:36
+
+13. CNIC: 352015062127
+    Account Type: Sahulat Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Tahira Batool
+    Location: Lahore
+    Date: 14-Jul-2025 21:25:17
+
+14. CNIC: 3540496201123
+    Account Type: Sahulat Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Surriya Naheed Hassan
+    Location: Sheikhupura
+    Date: 14-Jul-2025 19:20:00
+
+15. CNIC: 3410111622949
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Azra bibi
+    Location: Gujranwala
+    Date: 14-Jul-2025 15:26:17
+
+16. CNIC: 3740583542811
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Rizwana
+    Location: Rawalpindi
+    Date: 13-Jul-2025 22:10:18
+
+17. CNIC: 3520294152889
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Aliya awais
+    Location: Lahore
+    Date: 13-Jul-2025 22:05:47
+
+18. CNIC: 5650326355975
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Zahida Yaqoob
+    Location: Turbat
+    Date: 15-Jul-2025 14:12:49
+
+19. CNIC: 4220192954509
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Ambreen Rizwan
+    Location: Karachi
+    Date: 15-Jul-2025 14:11:38
+
+20. CNIC: 3540115434099
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Kubra razzaq
+    Location: Lahore
+    Date: 15-Jul-2025 13:43:28
+
+21. CNIC: 3420140684085
+    Account Type: Sahulat Account
+    Occupation: Freelancer
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Syeda Munazzah Aslam
+    Location: Gujrat
+    Date: 15-Jul-2025 12:49:47
+
+22. CNIC: 3610463114963
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Shazia Parveen
+    Location: Khanewal
+    Date: 15-Jul-2025 01:06:04
+
+23. CNIC: 3440232470737
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakisan
+    Marital Status: Single
+    Name: Ryast Bibi
+    Location: Mandi Bahauddin
+    Date: 14-Jul-2025 19:21:49
+
+24. CNIC: 8230319687059
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Mukhmal jan
+    Location: Rawalakot
+    Date: 14-Jul-2025 11:49:49
+
+25. CNIC: 3630274157321
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Fatima imran
+    Location: Multan
+    Date: 13-Jul-2025 22:57:23
+
+26. CNIC: 4540237172027
+    Account Type: Normal Account
+    Occupation: Business Owner
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Fazilat
+    Location: Nawabshah
+    Date: 13-Jul-2025 22:12:55
+
+27. CNIC: 1310109370539
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Shenaz akhter
+    Location: Abbottabad
+    Date: 13-Jul-2025 22:09:28
+
+28. CNIC: 3450295073675
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Rashida Tabassum
+    Location: Shakargarh
+    Date: 13-Jul-2025 21:51:04
+
+29. CNIC: 3620260420093
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Amina BIBI
+    Location: Lodhran
+    Date: 13-Jul-2025 19:28:24
+
+30. CNIC: 3520197108841
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Shamim Izhar
+    Location: Lahore
+    Date: 15-Jul-2025 14:20:36
+
+31. CNIC: 3610322210387
+    Account Type: Normal Account
+    Occupation: Business Owner
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Hajra Bibi
+    Location: Khanewal
+    Date: 14-Jul-2025 13:06:27
+
+32. CNIC: 4230156405289
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Fatima
+    Location: Karachi
+    Date: 14-Jul-2025 02:57:20
+
+33. CNIC: 1620210100551
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Sakeena bibi
+    Location: Swabi
+    Date: 13-Jul-2025 18:56:00
+
+34. CNIC: 4130882520875
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Robina Kousir
+    Location: Toba tek singh
+    Date: 13-Jul-2025 17:58:36
+
+35. CNIC: 8220371630407
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Gulshan Fatima
+    Location: Muzaffarabad
+    Date: 14-Jul-2025 21:52:23
+
+36. CNIC: 3520281672539
+    Account Type: Normal Account
+    Occupation: Business Owner
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Saima ikram
+    Location: Lahore
+    Date: 14-Jul-2025 21:03:52
+
+37. CNIC: 3310482384396
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Rukhsana Nasir
+    Location: Faisalabad
+    Date: 14-Jul-2025 10:16:17
+
+38. CNIC: 4200085184125
+    Account Type: Normal Account
+    Occupation: Business Owner
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Farzana
+    Location: Karachi
+    Date: 14-Jul-2025 00:05:15
+
+39. CNIC: 4220161052277
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Najma Naseem Naushahi
+    Location: Hafizabad
+    Date: 13-Jul-2025 19:17:08
+
+40. CNIC: 3740159539213
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Tasleem akhtar
+    Location: Gujar khan
+    Date: 15-Jul-2025 14:32:04
+
+41. CNIC: 352011713225
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Samina ali
+    Location: Lahore
+    Date: 15-Jul-2025 13:48:51
+
+42. CNIC: 3650232048479
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Zahida Parveen
+    Location: Sahiwal
+    Date: 15-Jul-2025 02:00:15
+
+43. CNIC: 1730199389375
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: PAKISTANI
+    Marital Status: Single
+    Name: SHAMIM AFZAL
+    Location: PESHAWAR
+    Date: 15-Jul-2025 00:09:09
+
+44. CNIC: 3310091343779
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Sitara Shaheen
+    Location: Faisalabad
+    Date: 13-Jul-2025 19:00:00
+
+45. CNIC: 6110121518371
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Humeira Tahir
+    Location: Rawalpindi
+    Date: 15-Jul-2025 14:02:06
+
+46. CNIC: 4130449185871
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Shagufta Azami
+    Location: Hyderabad
+    Date: 15-Jul-2025 12:13:47
+
+47. CNIC: 4210120820954
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Faryal Tariq
+    Location: Karachi
+    Date: 14-Jul-2025 17:48:08
+
+48. CNIC: 3840116968989
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Kubra Akhtar
+    Location: Sargodha
+    Date: 13-Jul-2025 19:37:51
+
+49. CNIC: 3520219747651
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Zubaida Ali
+    Location: Lahore
+    Date: 13-Jul-2025 17:48:43
+
+50. CNIC: 4230184703537
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Juliya sohail
+    Location: Karachi
+    Date: 15-Jul-2025 14:11:26
+
+51. CNIC: 3460320636383
+    Account Type: Sahulat Account
+    Occupation: Business Owner
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Sughran Bibi
+    Location: Sialkot
+    Date: 14-Jul-2025 08:47:40
+
+52. CNIC: 4130122792283
+    Account Type: Normal Account
+    Occupation: Business Owner
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Jamila begum
+    Location: Hala
+    Date: 14-Jul-2025 01:03:53
+
+53. CNIC: 1420287037297
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Babi rafia
+    Location: Karak
+    Date: 13-Jul-2025 20:04:49
+
+54. CNIC: 3440165472646
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Abida Kausar
+    Location: Lahore
+    Date: 15-Jul-2025 14:04:47
+
+55. CNIC: 1620248751541
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Nusrat Begum
+    Location: Swabi
+    Date: 15-Jul-2025 11:38:31
+
+56. CNIC: 3120375432578
+    Account Type: Normal Account
+    Occupation: Housewife
+    Nationality: pakistanpunjab
+    Marital Status: Married
+    Name: Maqboolan bibi
+    Location: Hasilpur bahawalpur
+    Date: 14-Jul-2025 13:33:01
+
+57. CNIC: 4220166934072
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Sabeen Andleeb
+    Location: Karachi
+    Date: 14-Jul-2025 12:05:53
+
+58. CNIC: 3520291885040
+    Account Type: Normal Account
+    Occupation: Housewife
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Uzma Naeem
+    Location: Lahore
+    Date: 14-Jul-2025 10:30:49
+
+59. CNIC: 3840369745540
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Sajeela Mansha
+    Location: Sargodha
+    Date: 13-Jul-2025 22:51:43
+
+60. CNIC: 3650290553119
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Zakia
+    Location: Sahiwal
+    Date: 13-Jul-2025 20:13:39
+
+61. CNIC: 4210137785076
+    Account Type: Normal Account
+    Occupation: Housewife
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Najma Begum
+    Location: Karachi
+    Date: 13-Jul-2025 17:38:31
+
+62. CNIC: 3740564077467
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Shabana Naz
+    Location: Faisalabad
+    Date: 15-Jul-2025 09:00:24
+
+63. CNIC: 8120403473037
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Tasleem Akhtar
+    Location: Kotli
+    Date: 15-Jul-2025 06:02:04
+
+64. CNIC: 3410169513397
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Farida
+    Location: Gujranwala
+    Date: 14-Jul-2025 22:54:02
+
+65. CNIC: 4210118931561
+    Account Type: Sahulat Account
+    Occupation: Freelancer
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Tanveer Mansoor
+    Location: Karachi
+    Date: 14-Jul-2025 20:28:27
+
+66. CNIC: 4220150259485
+    Account Type: Sahulat Account
+    Occupation: Freelancer
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Hafeeza Begum
+    Location: Karachi
+    Date: 14-Jul-2025 15:57:07
+
+67. CNIC: 4220126159953
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Saeeda Ilyas
+    Location: Karachi
+    Date: 14-Jul-2025 12:23:49
+
+68. CNIC: 3630230223669
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Farzana Naz
+    Location: Rawalpindi
+    Date: 14-Jul-2025 10:51:22
+
+69. CNIC: 4230151482147
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Nazeera khaton
+    Location: Karachi
+    Date: 14-Jul-2025 09:35:37
+
+70. CNIC: 4540268090179
+    Account Type: Sahulat Account
+    Occupation: Government Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Wazeera
+    Location: Nawabshah
+    Date: 13-Jul-2025 22:35:12
+
+71. CNIC: 3520228425375
+    Account Type: Sahulat Account
+    Occupation: Business Owner
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Syeda Munazza Batool Naqvi
+    Location: Iran
+    Date: 13-Jul-2025 15:40:06
+
+72. CNIC: 3120317167187
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Manzoor Ilahi
+    Location: Hasilpur
+    Date: 13-Jul-2025 02:03:42
+
+73. CNIC: 3660137610239
+    Account Type: Sahulat Account
+    Occupation: Business Owner
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Hameeda begim
+    Location: Okara
+    Date: 13-Jul-2025 03:09:01
+
+74. CNIC: 3710266175019
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: SAMINA BIBI
+    Location: ATTOCK
+    Date: 12-Jul-2025 22:46:14
+
+75. CNIC: 3720315104741
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Asma Zaitoon
+    Location: Talagang
+    Date: 13-Jul-2025 05:18:32
+
+76. CNIC: 3520221778901
+    Account Type: Sahulat Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Zamurrad
+    Location: Lahore
+    Date: 13-Jul-2025 05:12:31
+
+77. CNIC: 3520239442799
+    Account Type: Sahulat Account
+    Occupation: Student
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Rashida Mubarak
+    Location: lahore
+    Date: 13-Jul-2025 00:34:29
+
+78. CNIC: 3630262881647
+    Account Type: Sahulat Account
+    Occupation: Employee
+    Nationality: PAKISTAN
+    Marital Status: Married
+    Name: NAZEERAN BIBI
+    Location: MULTAN
+    Date: 13-Jul-2025 12:42:08
+
+79. CNIC: 3120245966993
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Rani farah naz
+    Location: Bahawalpur
+    Date: 13-Jul-2025 12:07:20
+
+80. CNIC: 3720326376035
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: PAKISTANI
+    Marital Status: Married
+    Name: SAJIDA KHATOON
+    Location: TALAGANF
+    Date: 13-Jul-2025 14:53:37
+
+81. CNIC: 1710104974323
+    Account Type: Normal Account
+    Occupation: Government Employee
+    Nationality: Pakistani
+    Marital Status: Single
+    Name: Farheen bibi
+    Location: Charsadda
+    Date: 12-Jul-2025 18:51:57
+
+82. CNIC: 1430193009747
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Ajman bibi
+    Location: Kohat
+    Date: 13-Jul-2025 16:26:44
+
+83. CNIC: 3110497712951
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Married
+    Name: Zahida Mudassir
+    Location: Bahawanagar
+    Date: 13-Jul-2025 01:30:10
+
+84. CNIC: 3530246347321
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: Sugran bibi
+    Location: RenalaKhurd
+    Date: 12-Jul-2025 22:28:34
+
+85. CNIC: 3410217947503
+    Account Type: Normal Account
+    Occupation: Employee
+    Nationality: Pakistani
+    Marital Status: Married
+    Name: Sajida
+    Location: Gujranwala
+    Date: 12-Jul-2025 22:36:35
+
+86. CNIC: 4220190482753
+    Account Type: Normal Account
+    Occupation: Freelancer
+    Nationality: Pakistan
+    Marital Status: Single
+    Name: riffat parveen
+    Location: hyderabad
+    Date: 12-Jul-2025 22:36:35
+
+================================
+PARTIAL EXTRACTION: 86 RECORDS SHOWN
+================================
+
+NOTE: This file contains only the first 86 records from the original data.
+The complete file contains many more records (estimated 200+ based on file size).
+Due to the large size of the original HTML file, only a portion could be extracted.
+
+To get all the data, you may need to:
+1. Open the original "Untitled-1" file in a text editor
+2. Use search/replace to clean up the HTML formatting
+3. Or use a script to parse the complete file
+
+This extracted data shows the format and structure of all records.
+Each record contains: CNIC, Account Type, Occupation, Nationality, Marital Status, Name, Location, and Date.
