@@ -12,14 +12,10 @@ return new class extends Migration
     public function up(): void
     {
         Schema::table('bookings', function (Blueprint $table) {
-            // Drop the created_by column if it exists with wrong constraints
-            if (Schema::hasColumn('bookings', 'created_by')) {
-                $table->dropForeign(['created_by']);
-                $table->dropColumn('created_by');
+            // Only add created_by column if it doesn't exist
+            if (!Schema::hasColumn('bookings', 'created_by')) {
+                $table->foreignId('created_by')->nullable()->constrained('users')->after('status');
             }
-            
-            // Add created_by column properly
-            $table->foreignId('created_by')->nullable()->constrained('users')->after('status');
         });
     }
 
