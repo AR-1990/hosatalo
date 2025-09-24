@@ -1,6 +1,6 @@
     <header class="header d-flex align-items-center" data-page="home">
         <div class="container position-relative d-flex justify-content-between align-items-center">
-            <a class="brand d-flex align-items-center" href="{{ route('index') }}">
+            <a class="brand d-flex align-items-center" href="{{ url('/') }}">
                 <span class="brand_logo">
                     <svg id="brandHeader" width="22" height="23" viewBox="0 0 22 23" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
@@ -15,7 +15,7 @@
             </a>
             <div class="header_offcanvas offcanvas offcanvas-end" id="menuOffcanvas">
                 <div class="header_offcanvas-header d-flex justify-content-between align-content-center">
-                    <a class="brand d-flex align-items-center" href="{{ route('index') }}">
+                    <a class="brand d-flex align-items-center" href="{{ url('/') }}">
                         <span class="brand_logo theme-element">
                             <svg id="brandOffset" width="22" height="23" viewBox="0 0 22 23" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">

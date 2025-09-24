@@ -149,7 +149,10 @@
       <div class="card-header">
         <h4><i class="fas fa-list"></i> All Payments</h4>
         <div class="card-header-action">
-          <a href="{{ route('admin.payments.report') }}" class="btn btn-info">
+          <!-- <a href="{{ route('admin.payments.create.standalone') }}" class="btn btn-success">
+            <i class="fas fa-plus"></i> Add Payment
+          </a> -->
+          <a href="{{ route('admin.payments.report') }}" class="btn btn-info ml-2">
             <i class="fas fa-chart-bar"></i> Generate Report
           </a>
         </div>

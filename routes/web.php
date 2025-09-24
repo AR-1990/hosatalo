@@ -88,6 +88,9 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/admin/bookings', [App\Http\Controllers\Admin\BookingController::class, 'index'])->name('admin.bookings.index');
     Route::get('/admin/bookings/create', [App\Http\Controllers\Admin\BookingController::class, 'create'])->name('admin.bookings.create');
     Route::post('/admin/bookings', [App\Http\Controllers\Admin\BookingController::class, 'store'])->name('admin.bookings.store');
+    Route::get('/admin/bookings/report', [App\Http\Controllers\Admin\BookingController::class, 'report'])->name('admin.bookings.report');
+    Route::get('/admin/bookings/export', [App\Http\Controllers\Admin\BookingController::class, 'export'])->name('admin.bookings.export');
+    Route::post('/admin/bookings/check-availability', [App\Http\Controllers\Admin\BookingController::class, 'checkAvailability'])->name('admin.bookings.check-availability');
     Route::get('/admin/bookings/{booking}', [App\Http\Controllers\Admin\BookingController::class, 'show'])->name('admin.bookings.show');
     Route::get('/admin/bookings/{booking}/edit', [App\Http\Controllers\Admin\BookingController::class, 'edit'])->name('admin.bookings.edit');
     Route::put('/admin/bookings/{booking}', [App\Http\Controllers\Admin\BookingController::class, 'update'])->name('admin.bookings.update');
@@ -95,9 +98,6 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/admin/bookings/{booking}/assign-room', [App\Http\Controllers\Admin\BookingController::class, 'assignRoom'])->name('admin.bookings.assign-room');
     Route::patch('/admin/bookings/{booking}/notes', [App\Http\Controllers\Admin\BookingController::class, 'updateNotes'])->name('admin.bookings.update-notes');
     Route::post('/admin/bookings/{booking}/cancel', [App\Http\Controllers\Admin\BookingController::class, 'cancel'])->name('admin.bookings.cancel');
-    Route::post('/admin/bookings/check-availability', [App\Http\Controllers\Admin\BookingController::class, 'checkAvailability'])->name('admin.bookings.check-availability');
-    Route::get('/admin/bookings/report', [App\Http\Controllers\Admin\BookingController::class, 'report'])->name('admin.bookings.report');
-    Route::get('/admin/bookings/export', [App\Http\Controllers\Admin\BookingController::class, 'export'])->name('admin.bookings.export');
     
     // Admin payment management
     Route::get('/admin/payments', [PaymentController::class, 'index'])->name('admin.payments.index');
@@ -112,6 +112,13 @@ Route::middleware(['auth'])->group(function () {
     // Payment creation (for existing bookings)
     Route::get('/admin/bookings/{booking}/payments/create', [PaymentController::class, 'create'])->name('admin.payments.create');
     Route::post('/admin/bookings/{booking}/payments', [PaymentController::class, 'store'])->name('admin.payments.store');
+    
+    // Standalone payment creation
+    Route::get('/admin/payments/create', [PaymentController::class, 'createStandalone'])->name('admin.payments.create.standalone');
+    Route::post('/admin/payments/create', [PaymentController::class, 'storeStandalone'])->name('admin.payments.store.standalone');
+    
+    // Customer search API
+    Route::get('/admin/api/customers/search', [PaymentController::class, 'searchCustomers'])->name('admin.api.customers.search');
     
     // Admin Room Management (Protected)
     Route::get('/admin/rooms', [RoomController::class, 'index'])->name('admin.rooms.index');
